@@ -1,0 +1,47 @@
+Player 1-1 Importando as prites do aviao FEITO
+1,2 criar obj aviao e dar a prite aviao e colocar na room
+1.3 caindo ao iniciar OK
+1.4 subindo ao apertar espaço OK
+1.5 Simulando gravidade continua OK
+1.6 Limitando a velo de queda do aviao OK
+1.7 reiniciar o player ao colidir com a montanha OK
+1.8 - criar uma fumaça sempre q o player subir OK
+1.9 - fazer a fumaça aparecer e desaparecer OK
+1.10 - fazendo a fumaça desaparecer OK
+
+2-Obstaculos
+2.1- criar as sprites das montanhas OK
+2.2 - Criar o objeto das montanhas OK
+2.3 - ajustar espaço entre as montanhas OK
+2.5 - aumentando a velo dependendo do level 
+
+3 geraçao procedural dos obstaculos
+3.1 - criando um evento que repete OK
+3.2 - criando as montanhas OK
+3.3 - alterando a frequencia da criaçao das montanhas OK
+
+
+4 BackGround
+4.1 - criando sprite do bg OK
+4.2 - movimento de bg OK
+4.3 -  ajustar a velo do bg com relação ao nvl
+
+5 - Sistema de pontos
+5.1 - Iniciando o sistema de pontos OK
+5.2 - ganhando pontos OK
+5.3 - exibindo pontos OK
+5.4 - nivel aumentando e gerando mais pontos 
+
+6.1- iniciando sistema de level
+6.2 - ganhando level OK
+6.3 - Exibindo o level
+
+7 - Sons do jogo
+7-1 importando son
+7.2 - iniciando a musica
+
+8 Tela inicial do jogo
+8.1 - criar room OK
+8.2- criar sprite inicio OK
+8.3- criando animação sprite OK
+8.4- iniciando o jogo ao apertar espaço
